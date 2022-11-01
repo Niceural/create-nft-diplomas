@@ -1,0 +1,5 @@
+node_modules
+build
+trash
+.env
+yarn.lock
